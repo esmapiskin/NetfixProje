@@ -1,0 +1,27 @@
+*{margin: 0;padding: 0; box-sizing: border-box;}
+
+body{text-align: center; background-image: url(background_image.jpg); color: white; font-size: small;}
+
+form{background-color: rgba(0, 0,0, 0.8); width: fit-content; margin: auto;text-align: left; padding: 20px;}
+
+.container {background-color: rgba(0, 0,0, 0.5); height: 100vh; margin: 20px 10px 20px}
+
+.cls {font-size: 50px;}
+.lsc {color: red;}
+
+.form-1 input{width: 90%; height: 30px;margin-bottom: 10px;}
+
+.kutu1 input{width: 90%; height: 30px;margin-bottom: 10px;}
+
+.form-2 input{width: 90%; height: 30px; margin-bottom: 10px;}
+
+.form-3 select{width: 85%;height: 25px; margin-bottom: 10px;}
+
+.form-4 {margin-bottom: 10px;}
+
+.form-5 {margin-bottom: 10px;}
+
+.form-6{margin-bottom: 10px;}
+.form-7 input { background-color: red; color: white; width: 80px; padding: 10px; border-radius: 2cm; margin-left: 90px; }
+
+.container p{ font-size: large;}
